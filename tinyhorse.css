@@ -1,0 +1,32 @@
+li a{
+  text-decoration: none;
+  color: white;
+}
+li a:hover{
+  text-decoration-color: #e35443;
+  color: white;
+}
+
+.header_img {
+	 background-image: url("https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Marketing-Agency-Contact.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+	font-family:'Public Sans', sans-serif;
+	min-height:900px;
+	color:white;
+}	
+
+
+
+	
+.list-inline{
+text-decoration: bold;
+text-align: center;
+font-family:'Public Sans', sans-serif
+
+}
+
+.address, .cities, .copyright{
+	color: white;
+}
